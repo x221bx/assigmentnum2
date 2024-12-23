@@ -2,7 +2,7 @@
 # Video
 
 ### Watch the video
-[Watch the Video](https://github.
+[Watch the Video](
 
 https://github.com/user-attachments/assets/97d7a3ad-00fc-427c-9c66-0ae38bd9e95c
 
