@@ -4,9 +4,7 @@
 Watch the video below:
 
 [Watch the video](https://github.com/user-attachments/assets/69d59b7f-52db-44be-a633-3935793dd484)
-
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-bottom: 20px;">
-    <!-- Video Section -->
     <div style="flex: 1 1 45%; display: flex; justify-content: center;">
         <h3>Video</h3>
         <a href="https://github.com/user-attachments/assets/69d59b7f-52db-44be-a633-3935793dd484">
