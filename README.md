@@ -2,10 +2,9 @@
 
 ## Video and Images
 Watch the video below:
-
+ <div style="flex: 1 1 45%; display: flex; justify-content: center;">
 [Watch the video](https://github.com/user-attachments/assets/69d59b7f-52db-44be-a633-3935793dd484)
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-bottom: 20px;">
-    <div style="flex: 1 1 45%; display: flex; justify-content: center;">
         <h3>Video</h3>
         <a href="https://github.com/user-attachments/assets/69d59b7f-52db-44be-a633-3935793dd484">
             <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Video" style="width: 80%; max-width: 400px;">
