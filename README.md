@@ -1,4 +1,8 @@
 # Media Gallery
+# Video
+
+### Watch the video
+[Watch the Video](https://github.com/user-attachments/assets/eb8729f3-8da4-412a-b3e8-e3ccb61ae510)
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
     <!-- Video first -->
