@@ -1,8 +1,9 @@
 # Media Gallery
+
 # Video
 
 ### Watch the video
-
+[Watch the Video](https://github.com/user-attachments/assets/97d7a3ad-00fc-427c-9c66-0ae38bd9e95c)
 
 <div style="flex: 1; margin-right: 10px;">
     <h3>Video</h3>
@@ -10,6 +11,7 @@
         <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Video" style="width: 100%; max-width: 300px;">
     </a>
 </div>
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <!-- Images -->
     <img src="https://github.com/user-attachments/assets/4495cbb0-365f-4544-ae5e-70be2b52f07e" alt="Image 1" style="width: 30%; margin-bottom: 10px;">
