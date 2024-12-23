@@ -1,9 +1,10 @@
 # Media Gallery
 
 ## Video and Images
-Watch the video below:
-src="https://github.com/user-attachments/assets/eda840be-fb48-45d4-89af-9dec9d7f49e4"
-<!-- استخدم رابط منصة تدعم التضمين مثل YouTube أو Vimeo هنا -->
+Watch the video be
+
+https://github.com/user-attachments/assets/69d59b7f-52db-44be-a633-3935793dd484
+
 ## Images
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img src="https://github.com/user-attachments/assets/2b51684c-9b56-4870-9696-f6756f842dcb" alt="Image 4" style="width: 30%; margin-bottom: 10px; max-width: 200px;">
