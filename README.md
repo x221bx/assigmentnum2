@@ -4,7 +4,10 @@
 Watch the video below:
 
 <!-- استخدم رابط منصة تدعم التضمين مثل YouTube أو Vimeo هنا -->
-<iframe src="https://www.youtube.com/embed/video_id" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe 
+    src="https://www.youtube.com/embed/video_id" 
+    width="560" height="315" frameborder="0" allowfullscreen>
+    </iframe>
 
 ## Images
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
