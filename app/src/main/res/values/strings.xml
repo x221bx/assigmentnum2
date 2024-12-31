@@ -1,3 +1,178 @@
 <resources>
-    <string name="app_name">assigmentnum2</string>
+    <string name="app_name">Assignment2</string>
+    <string name="content_Adroid">Part 1 ( Java SE)
+1. Introduction to Java Programming  line \n
+• Overview. line \n
+• Compiler and JVM  line \n
+• Project Structure line \n
+• Hello World Application  line \n
+• Variables and Data types  line \n
+• Operators  line \n
+• Conditional statements ( IF - Switch) line \n
+• Loops ( For - While - Do While)   line \n
+2. Basics   line \n
+• nested loops   line \n
+• Strings   line \n
+• Arrays   line \n
+• functions  line \n
+3. Object Oriented Programming  line \n
+• Classes and Objects  line \n
+• Encapsulation and data hiding   line \n
+• Inheritance   line \n
+• Polymorphism    line \n
+• Abstraction (Abstract classes - Interfaces)   line \n
+4. Collections and Generics   line \n
+• Sets, Lists   line \n
+• Threading   line \n
+• Generics Class and MethodPart 2 (Android Development)   line \n
+1. Introduction to Android    line \n
+• Android OS     line \n
+• Android Versions    line \n
+• OS Architecture     line \n
+• Application Component    line \n
+• Android Studio and Gradle     line \n
+• Creating Hello World    line \n
+2. UI Components    line \n
+• Layouts(Constraints Layout- Linear Layout )     line \n
+• Using resources ( drawables, Strings colors, and Styles )     line \n
+3. UI Components II     line \n
+• Menu    line \n
+• Support Localization    line \n
+• Support Orientation     line \n
+4. Intents and Activities     line \n
+• Intents     line \n
+• Intent Filters     line \n
+5. Fragments     line \n
+• what is fragments    line \n
+• Fragment manager and transaction     line \n
+• tablayout, NavigationDrawer, BottomNavigation    line \n
+6. Dialogs• Alert Dialog   line \n
+• Display dialog with items    line \n
+• Custom dialogs (Dialog Fragment)     line \n
+7. Data Storage     line \n
+• Shared Preference     line \n
+• Room (Database Library) - from google Arch Components     line \n
+8. Threading and Services    line \n
+• Threading     line \n
+• Service and Intent Service       line \n
+9. Web services and APIs           line \n
+• what is JSON ?    line \n
+• how to make network calls and APIs       line \n
+• Consuming Web APIs          line \n
+• Using Retrofit and Gson Libraries       line \n
+• how to cache Apis        line \n
+• using Room and Retrofit Together         line \n
+• what is Repository Pattern?          line \n
+10. FireBase RealTime Database          line \n
+• how to deal with Realtime Database         line \n
+11. Notifications         line \n
+• Simple Notification        line \n
+• firebase to push Notifications        line \n
+• one signal push notifications SDK           line \n
+</string>
+    <string name="Content_Full_Stack">
+        •HTML   line \n
+•HTML 5    line \n
+•CSS   line \n
+•CSS3     line \n
+•SASS    line \n
+•Bootstrap 4    line \n
+•JavaScript    line \n
+•Regular expressions    line \n
+•ECMAScript 6    line \n
+•JQuery    line \n
+•angular 7    line \n
+•fabric.js    line \n
+•AJAX    line \n
+•JSON    line \n
+•Hosting and domains   line \n
+•Freelancing tips and tricks     line \n
+•PHP  line \n
+•MYSQL  line \n
+•MYSQL advanced queries and triggers  line \n
+•OOP  line \n
+•Design Patterns  line \n
+•MVC  line \n
+•laravel  line \n
+•build Api , Api authentication  line \n
+•connect wordpress with laravel  line \n
+•build wordpress web service   line \n
+•agile  line \n
+•Scrum  line \n
+•Software development process   line \n
+    </string>
+    <string name="Content_IOS">
+        OOP refreshment    line \n
+• Introduction    line \n
+a. Installing OS X virtual machine     line \n
+b. Installing Xcode and the iOS SDK       line \n
+c. A guided tour of Xcode    line \n
+d. An Introduction to Xcode playgrounds    line \n
+• Swift Programming Language    line \n
+a. Swift Data Types, Constants, and Variables    line \n
+b. Swift Operators and Expressions    line \n
+c. Swift Flow Control   line \n
+d. The Swift Switch Statement    line \n
+e. An Overview of Swift Functions    line \n
+f. The Basics of Object Oriented Programming in Swift    line \n
+g. An Introduction to Swift Subclassing and Extensions    line \n
+h. Working with Array and Dictionary Collections in Swift   line \n
+i. Understanding Error Handling in Swift   line \n
+• Views, Layouts, and Storyboards.    line \n
+a. Learning different types of Xcode projects   line \n
+b. Creating first application   line \n
+c. Introduction to application file structure.   line \n
+d. Using Storyboards in Xcode   line \n
+e. Introduction to basic UI Components.   line \n
+f. Creating basic UI Components using Storyboard   line \n
+g. Creating basic UI Components programmatically   line \n
+h. Customizing UI Components.   line \n
+i. An Introduction to Auto Layout in iOS    line \n
+j. Working with iOS Auto Layout Constraints in Interface Builder   line \n
+k. Creating Navigation controller and learning its flow    line \n
+l. Creating tab-based application    line \n
+m. Adding custom fonts    line \n
+n. Creating table view    line \n
+o. Example about gestures    line \n
+p. Creating custom cells for tables   line \n
+q. Animations    line \n
+r. Examples about subclass    line \n
+• Working with local data   line \n
+a. Working with UserDefaults    line \n
+b. Introduction to CoreData     line \n
+c. Introduction to Realm    line \n
+d. Creating data models    line \n
+e. Saving retrieving data    line \n
+• ToDo app project    line \n
+a. Implement the interface    line \n
+b. Create realm models    line \n
+c. restore ToDo lists    line \n
+• CocoaPods    line \n
+a. Introduction to Cocoapods    line \n
+b. Installing sample pods   line \n
+c. Learning how to use pods in project   line \n
+d. How to look for a useful pod    line \n
+e. Example using Realm database thirdparty    line \n
+• Networking    line \n
+a. Working with Alamofire pod     line \n
+b. Installing and configuring Alamofire    line \n
+c. Learning how to send GET   line \n
+d. Learning how to parse JSON responses using ObjectMapper pod    line \n
+e. Creating sample login screen with POST   line \n
+f. Creating sample table view displays data from JSON object  line \n
+• Dynamic animator  line \n
+a. Deal with physics engine  line \n
+b. Apply Gravity field to dynamic objects  line \n
+c. Apply collision field to dynamic objects  line \n
+d. Apply other physics fields to dynamic objects  line \n
+• Working with Maps  line \n
+a. Introduction to maps  line \n
+b. Showing current user location  line \n
+c. Adding pins  line \n
+• Apply some design patterns  line \n
+a. Creational: Singleton.  line \n
+b. Structural: MVC, Decorator, Adapter, Facade.  line \n
+c. Behavioral: Observer  line \n
+• Creating final project depends on attendees needs  line \n
+    </string>
 </resources>
